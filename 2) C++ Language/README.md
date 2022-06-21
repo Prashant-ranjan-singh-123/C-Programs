@@ -13,11 +13,11 @@ How to run Program :-
 
 1) First, download and install the compiler (https://sourceforge.net/project/showfiles.php?group_id=2435&package_id=240780)
 3) Then, open the command line and change directory to the particular one where the source file is stored, using cd like so :-
-        cd C:\Documents and Settings\...
+   1) cd C:\Documents and Settings\...
 3) Then, to compile, type in the command prompt:
-        gcc sourcefile_name.c -o outputfile.exe
+   1) gcc sourcefile_name.c -o outputfile.exe
 4) Finally, to run the code, type:
-        outputfile.exe
+   1) outputfile.exe
 
 For More information visit:- https://www.studytonight.com/c/compile-and-run-c-program.php
 
