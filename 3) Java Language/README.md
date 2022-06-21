@@ -13,10 +13,10 @@ How to run Program :-
 
 1) First, download and install the java in your Pc.
 3) Then, open the command line and change directory to the particular one where the source file is stored, using cd like so :-
-                cd C:\Documents and Settings\...
-3) Then, to compile, type in the command prompt:
-                javac name_of_program.java
-                java name_of_program
+         cd C:\Documents and Settings\...
+5) Then, to compile, type in the command prompt:-
+         javac name_of_program.java
+         java name_of_program
 
 For More information visit:- https://www.javatpoint.com/how-to-run-java-program-in-cmd-using-notepad
 
