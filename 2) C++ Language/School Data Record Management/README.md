@@ -5,5 +5,9 @@ manage the data of Students.
 isn't only ours team there our lot other's you can visit
 there to see all our classes work in 1 repo
 
-3) Our Team repo Link :-
-4) Class Repo Link :-
+3) Our Team repo Link 👎
+   1) https://github.com/OOP-Projects-By-CS-F/Group-17-Student-Report-Management-System
+    
+5) Class Repo Link :-
+   1) https://github.com/OOP-Projects-By-CS-F
+   
