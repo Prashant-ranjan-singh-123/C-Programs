@@ -16,7 +16,7 @@ How to run Program :-
    1) cd C:\Documents and Settings\...
 5) Then, to compile, type in the command prompt:-
    1) javac name_of_program.java
-   2) 2) java name_of_program
+   2) java name_of_program
 
 For More information visit:- https://www.javatpoint.com/how-to-run-java-program-in-cmd-using-notepad
 
