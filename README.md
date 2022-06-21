@@ -1,2 +1,11 @@
-# C-Programs
-This Repro Will contain my all c programs which i had done in my First year
+Hello Thanks visiting my Programming Repo:-
+
+In this repo i will upload all my coading program which i build in my life time:-
+1) C Language Programs
+2) C++ Language Programs
+3) Java Language Program
+4) Python Language Program
+5) Android Development (Soon)
+
+
+You can Also visit my linkdin Profile where i had uploaded all my Course Certificate and my progress Till Now.
