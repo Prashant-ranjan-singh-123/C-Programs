@@ -9,9 +9,9 @@ In this repo i will upload all my coading program which i build in my collage ye
 How to run Program :-
 1) First, download and install python in your Pc (https://www.python.org/downloads)
 2) Then, open the command line and change directory to the particular one where the source file is stored, using cd like so 🚱
-   cd C:\Documents and Settings...
+   1) cd C:\Documents and Settings...
 4) Then, to compile, type in the command prompt
-   python name_of_file.py
+   1) python name_of_file.py
 For More information visit:- https://www.geeksforgeeks.org/how-to-run-a-python-script/
 
 You can Also visit my linkdin Profile where i had uploaded all my Course Certificate and my progress Till Now
