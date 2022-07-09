@@ -1650,7 +1650,7 @@ program, the data inside will be in binary format so anyone cant read it.
 
 
 class Errors:
-    def file_missing(cls, url = 'www.linkedin.com/in/prashant-ranjan-singh-b9b6b9217',show_name_of_url='www.linkedin.com'):
+    def file_missing(cls, url = 'https://github.com/Prashant-ranjan-singh-123/MyAllProgramsInOneRepo/tree/main/4)%20Python%20Language/GUI%20Program/Library%20Management',show_name_of_url='www.github.com'):
         def callback(url):
             webbrowser.open_new_tab(url)
 
