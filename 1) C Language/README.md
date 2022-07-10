@@ -1,22 +1,31 @@
-Hello Thanks visiting my Programming Repo:-
+There are total 18 C programs which i created when i was in 2st semester in college.
+
+I also want to add that in 2nd semester i wrote my first program, hello world in C and C is my first programming language from which i started my coading currier, Gaurav Sharma Sir gave us this programs for practice i made sevral more but uploaded only that much which were  given in collage with documentation in pdf format.
+
+Each folder contains :-
+   1) *.c Program
+   2) Documentation
+   3) Sample Photos
+      1) Code Image
+      2) Output Images
 
 
-
-In this repo i will upload all my coading program which i build in my first year of coading:-
-
-1) This Folder Contain seperate folder's for all my Programs
-2) Every Folder contains README.md by which we can understand that how that script work.
-3) You can compile and run that program in your PC, for better Understanding.
-4) You can use Visual Studio Code for it (Optional).
-
-How to run Program :-
-1) Install gcc in your PC and add it to system variable
-2) Then open CMD/Terminal in Windows/Linux on that path and type this 2 Command :-
-      1) gcc FileName.c
-      2) ./a.out
-
-3) For More information visit:-
-https://www.studytonight.com/c/compile-and-run-c-program.php 
-
-
-You can Also visit my linkdin Profile where i had uploaded all my Course Certificate and my progress Till Now.
+Functioning of program :-
+   1) hello world
+   2) Arithmetic operationon two numbers
+   3) Sum of individuals digits in 3 digit number.
+   4) 3 digit number in reverse order
+   5) Swap 2 variable without 3rd variable
+   6) Greatest number finder between 2 number
+   7) Evan Odd checker
+   8) Vowel or consonant finder in char
+   9) Check number is positive, negative or zero
+   10) Check number is in range 100-200 or not
+   11) Arithmetic operationon two numbers using switch case
+   12) Print table of any number
+   13) Factorial of a number
+   14) Fibonacci series Program
+   15) pattern print using loop
+   16) Find maximum & minimum number from array
+   17) How many digits at each index of array
+   18) Search given number is present or not present in Array
