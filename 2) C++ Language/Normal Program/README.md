@@ -1,5 +1,5 @@
 # Hi, I'm Prashant Ranjan Singh 👋
-# All Collage Programs (C++/Cpp)
+## All Collage Programs (C++/Cpp)
 
 In This I had made 29 programs which were given by university for practice :-
 
