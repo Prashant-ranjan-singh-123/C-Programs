@@ -1,7 +1,5 @@
 # Hi, I'm Prashant Ranjan Singh 👋
 
-![App Screenshot](https://lh6.googleusercontent.com/h241wVR0yjQKWTLKgtvNc5N0mo8_opJHC1hfUiou04saFwXEwsKkD0m3ZzSK4D8TOgj-r8pFMLTroIm4bwfR=w1318-h657)
-# About Me
 Hello Viewers, I am Pashant Ranjan Singh Currently Doing B.tech from Medi-Caps University.
 
 
