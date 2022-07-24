@@ -1,19 +1,37 @@
+# Hi, I'm Prashant Ranjan Singh 👋
 
-# Group-17 (Student-Report-Management-System)
+![App Screenshot](https://lh6.googleusercontent.com/h241wVR0yjQKWTLKgtvNc5N0mo8_opJHC1hfUiou04saFwXEwsKkD0m3ZzSK4D8TOgj-r8pFMLTroIm4bwfR=w1318-h657)
+# About Me
+Hello Viewers, I am Pashant Ranjan Singh Currently Doing B.tech from Medi-Caps University.
 
 
-In this Project we had created an student report card system with the help of CPP (c++) Programming language it will take information about student like name,       roll number, all subject marks etc and stored it inside an file and we can see whole class result or can find perticular student result within the program, and     user cant read file data inside txt file cauz it will be in zibrish (un-understandable) language.
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-ranjan-singh-b9b6b9217/)
+### Skill Till Now :)
+- C (Basic) Language
+- C++/Cpp (Basic) Language
+- Java (Core + Advanced) Language
+- Python (Core+Advanced)
+
+# #All Work Till Now
+In this repository i will update all my **Collage Program**/**Mini Project**/**Major Projects**/**Self Practiced Programs** etc. Which i am doing from 1st year of my collage life till now.
+
+### Programs in repository
+- C Language
+- Cpp/C++ Language
+- Java Language
+- Python Language
 
 
-## Team Members
 
-- [Prashant Singh](https://www.linkedin.com/in/prashant-ranjan-singh-b9b6b9217/)
-- [Prashant Patil](https://www.linkedin.com/in/prashant-patil-66a930156/)
-- Prashant Chaurasiya
-## Program Images
 
- - Front Screen
- 
- 
 
-![Logo](https://raw.githubusercontent.com/Prashant-ranjan-singh-123/MyAllProgramsInOneRepo/main/2\)%20C%2B%2B%20Language/School%20Data%20Record%20Management/Output%20Pictures%20Of%20Project/Front%20Screen.png)
+## 2nd Year Collage Official Repo 
+
+- [Group 17 (Medicaps Official Repo)](https://github.com/Prashant-ranjan-singh-123/MyAllProgramsInOneRepo/tree/main/2\)%20C%2B%2B%20Language/School%20Data%20Record%20Management/Output%20Pictures%20Of%20Project)
+- [CS-F (Medicaps Official Repo)](https://github.com/orgs/OOP-Projects-By-CS-F/repositories)
+
+## Support
+
+- **Email:** prashant.singh.12312345@gmail.com 
+- **Linkdin:** [prashant-ranjan-singh-b9b6b9217](https://www.linkedin.com/in/prashant-ranjan-singh-b9b6b9217/)
+
