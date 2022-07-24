@@ -1,4 +1,4 @@
-## 2st 
+## 2nd
 
 Program to calculate square of a given no.
 
