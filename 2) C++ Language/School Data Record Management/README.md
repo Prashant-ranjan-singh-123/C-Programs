@@ -12,7 +12,7 @@ In this Project we had created an student report card system with the help of CP
 - Prashant Chaurasiya
 ## Collage Official Repo
 
-- [Group 17 (Medicaps Official Repo)](https://github.com/Prashant-ranjan-singh-123/MyAllProgramsInOneRepo/tree/main/2\)%20C%2B%2B%20Language/School%20Data%20Record%20Management/Output%20Pictures%20Of%20Project)
+- [Group 17 (Medicaps Official Repo)](https://github.com/OOP-Projects-By-CS-F/Group-17-Student-Report-Management-System)
 - [CS-F (Medicaps Official Repo)](https://github.com/orgs/OOP-Projects-By-CS-F/repositories)
 
 ## Run Locally
