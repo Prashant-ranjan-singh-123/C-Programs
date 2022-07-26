@@ -33,4 +33,3 @@ In this repository i will update all my **Collage Program**/**Mini Project**/**M
 
 - **Email:** prashant.singh.12312345@gmail.com 
 - **Linkdin:** [prashant-ranjan-singh-b9b6b9217](https://www.linkedin.com/in/prashant-ranjan-singh-b9b6b9217/)
-
