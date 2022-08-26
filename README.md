@@ -10,6 +10,7 @@ Hello Viewers, I am Pashant Ranjan Singh Currently Doing B.tech from Medi-Caps U
 - C++/Cpp (Basic) Language
 - Java (Core + Advanced) Language
 - Python (Core+Advanced)
+- Android Development
 
 # 🛠 #All Work Till Now
 In this repository i will update all my **Collage Program**/**Mini Project**/**Major Projects**/**Self Practiced Programs** etc. Which i am doing from 1st year of my collage life till now.
