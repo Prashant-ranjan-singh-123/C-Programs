@@ -20,6 +20,7 @@ In this repository i will update all my **Collage Program**/**Mini Project**/**M
 - Cpp/C++ Language
 - Java Language
 - Python Language
+- Android (XML & Kotlin)
 
 
 
